@@ -4,7 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-
 import java.util.List;
 
 public class Main {
@@ -33,6 +32,7 @@ public class Main {
         }
     }
 }
+
 /*
 Go to https://www.telerik.com/services
 (loop this 4 times and each time open new session) Click on Kendo UI Consulting,
