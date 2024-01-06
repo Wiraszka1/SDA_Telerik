@@ -16,7 +16,8 @@ Most of the bugs located are within UI, mostly on Mobile devices, also on Deskto
 Though in a few cases, also critical ones I would suggest more prompt action as bugs like SDA-3 or SDA-4 could potentially lead to losing a customer.
 Another proposal would be a more unified approach to objects within one class/more coherent approach to what happens after a user goes “deeper” into subpages. 
 Some subpages refer to the same form/subpage whereas others, with similar objects, act differently or show data that could be more unified with other 
-objects and the way the whole Application works.
+objects and the way the whole Application works. From the below link you will be able to find my project sum up.
+https://docs.google.com/document/d/1ZfhzpDXs-vI2slfJjfITX7NaxWRAUgQo/edit
 
 If you have any further questions/want to request access to Jira do not hesitate to contact me directly on przybeckikrzysiek@gmail.com
 
